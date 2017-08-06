@@ -1,0 +1,168 @@
+INFO  01.08.2017 14:24:39 - Пассажир 1 находится на этаже 5, ему надо на 1 этаж
+INFO  01.08.2017 14:24:39 - Пассажир 2 находится на этаже 5, ему надо на 3 этаж
+INFO  01.08.2017 14:24:39 - Пассажир 3 находится на этаже 2, ему надо на 4 этаж
+INFO  01.08.2017 14:24:39 - Пассажир 4 находится на этаже 5, ему надо на 2 этаж
+INFO  01.08.2017 14:24:39 - Пассажир 5 находится на этаже 2, ему надо на 1 этаж
+INFO  01.08.2017 14:24:39 - Пассажир 6 находится на этаже 5, ему надо на 2 этаж
+INFO  01.08.2017 14:24:39 - Пассажир 8 находится на этаже 4, ему надо на 1 этаж
+INFO  01.08.2017 14:24:39 - Пассажир 7 находится на этаже 4, ему надо на 1 этаж
+INFO  01.08.2017 14:24:39 - Пассажир 10 находится на этаже 5, ему надо на 4 этаж
+INFO  01.08.2017 14:24:39 - Пассажир 9 находится на этаже 3, ему надо на 4 этаж
+INFO  01.08.2017 14:24:43 - Лифт переместился с 1 на 2 этаж
+INFO  01.08.2017 14:24:45 - Пассажир 3 сел на 2 этаже
+INFO  01.08.2017 14:24:45 - Пассажир 5 сел на 2 этаже
+INFO  01.08.2017 14:24:47 - Лифт переместился с 2 на 3 этаж
+INFO  01.08.2017 14:24:51 - Пассажир 9 сел на 3 этаже
+INFO  01.08.2017 14:24:53 - Лифт переместился с 3 на 4 этаж
+INFO  01.08.2017 14:24:55 - Пассажир 3 прибыл на этаж 4
+INFO  01.08.2017 14:24:55 - Пассажир 9 прибыл на этаж 4
+INFO  01.08.2017 14:24:57 - Пассажир 7 сел на 4 этаже
+INFO  01.08.2017 14:24:57 - Пассажир 8 сел на 4 этаже
+INFO  01.08.2017 14:24:59 - Лифт переместился с 4 на 5 этаж
+INFO  01.08.2017 14:25:03 - Лифт переместился с 5 на 4 этаж
+INFO  01.08.2017 14:25:07 - Лифт переместился с 4 на 3 этаж
+INFO  01.08.2017 14:25:11 - Лифт переместился с 3 на 2 этаж
+INFO  01.08.2017 14:25:15 - Лифт переместился с 2 на 1 этаж
+INFO  01.08.2017 14:25:17 - Пассажир 5 прибыл на этаж 1
+INFO  01.08.2017 14:25:17 - Пассажир 7 прибыл на этаж 1
+INFO  01.08.2017 14:25:17 - Пассажир 8 прибыл на этаж 1
+INFO  01.08.2017 14:25:21 - Лифт переместился с 1 на 2 этаж
+INFO  01.08.2017 14:25:25 - Лифт переместился с 2 на 3 этаж
+INFO  01.08.2017 14:25:29 - Лифт переместился с 3 на 4 этаж
+INFO  01.08.2017 14:25:33 - Лифт переместился с 4 на 5 этаж
+INFO  01.08.2017 14:25:35 - Пассажир 1 сел на 5 этаже
+INFO  01.08.2017 14:25:35 - Пассажир 2 сел на 5 этаже
+INFO  01.08.2017 14:25:35 - Пассажир 4 сел на 5 этаже
+INFO  01.08.2017 14:25:37 - Лифт переместился с 5 на 4 этаж
+INFO  01.08.2017 14:25:41 - Лифт переместился с 4 на 3 этаж
+INFO  01.08.2017 14:25:43 - Пассажир 2 прибыл на этаж 3
+INFO  01.08.2017 14:25:47 - Лифт переместился с 3 на 2 этаж
+INFO  01.08.2017 14:25:49 - Пассажир 4 прибыл на этаж 2
+INFO  01.08.2017 14:25:53 - Лифт переместился с 2 на 1 этаж
+INFO  01.08.2017 14:25:55 - Пассажир 1 прибыл на этаж 1
+INFO  01.08.2017 14:25:59 - Лифт переместился с 1 на 2 этаж
+INFO  01.08.2017 14:26:03 - Лифт переместился с 2 на 3 этаж
+INFO  01.08.2017 14:26:07 - Лифт переместился с 3 на 4 этаж
+INFO  01.08.2017 14:26:11 - Лифт переместился с 4 на 5 этаж
+INFO  01.08.2017 14:26:13 - Пассажир 6 сел на 5 этаже
+INFO  01.08.2017 14:26:13 - Пассажир 10 сел на 5 этаже
+INFO  01.08.2017 14:26:15 - Лифт переместился с 5 на 4 этаж
+INFO  01.08.2017 14:26:17 - Пассажир 10 прибыл на этаж 4
+INFO  01.08.2017 14:26:21 - Лифт переместился с 4 на 3 этаж
+INFO  01.08.2017 14:26:27 - Лифт переместился с 3 на 2 этаж
+INFO  01.08.2017 14:26:29 - Пассажир 6 прибыл на этаж 2
+INFO  04.08.2017 15:58:00 - The passenger 1 moves from 10 to 7 floor
+INFO  04.08.2017 15:58:00 - The passenger 18 moves from 3 to 2 floor
+INFO  04.08.2017 15:58:00 - The passenger 13 moves from 7 to 8 floor
+INFO  04.08.2017 15:58:00 - The passenger 11 moves from 10 to 2 floor
+INFO  04.08.2017 15:58:00 - The passenger 17 moves from 10 to 9 floor
+INFO  04.08.2017 15:58:00 - The passenger 10 moves from 8 to 4 floor
+INFO  04.08.2017 15:58:00 - The passenger 16 moves from 3 to 10 floor
+INFO  04.08.2017 15:58:00 - The passenger 15 moves from 8 to 3 floor
+INFO  04.08.2017 15:58:00 - The passenger 14 moves from 2 to 6 floor
+INFO  04.08.2017 15:58:00 - The passenger 12 moves from 7 to 8 floor
+INFO  04.08.2017 15:58:00 - The passenger 8 moves from 7 to 10 floor
+INFO  04.08.2017 15:58:00 - The passenger 7 moves from 2 to 10 floor
+INFO  04.08.2017 15:58:00 - The passenger 4 moves from 10 to 7 floor
+INFO  04.08.2017 15:58:00 - The passenger 6 moves from 4 to 3 floor
+INFO  04.08.2017 15:58:00 - The passenger 5 moves from 9 to 2 floor
+INFO  04.08.2017 15:58:00 - The passenger 3 moves from 1 to 5 floor
+INFO  04.08.2017 15:58:00 - The passenger 9 moves from 3 to 5 floor
+INFO  04.08.2017 15:58:00 - The passenger 2 moves from 3 to 2 floor
+INFO  04.08.2017 15:58:00 - The passenger 20 moves from 10 to 2 floor
+INFO  04.08.2017 15:58:00 - The passenger 19 moves from 8 to 1 floor
+INFO  04.08.2017 15:58:01 - The passenger 3 boarded the elevator on the 1 floor
+INFO  04.08.2017 15:58:02 - Elevator moved from 1 to 2 floor
+INFO  04.08.2017 15:58:03 - The passenger 7 boarded the elevator on the 2 floor
+INFO  04.08.2017 15:58:03 - The passenger 14 boarded the elevator on the 2 floor
+INFO  04.08.2017 15:58:03 - Elevator moved from 2 to 3 floor
+INFO  04.08.2017 15:58:05 - Elevator moved from 3 to 4 floor
+INFO  04.08.2017 15:58:06 - Elevator moved from 4 to 5 floor
+INFO  04.08.2017 15:58:07 - The passenger 3 left the elevator on the 5th floor
+INFO  04.08.2017 15:58:08 - Elevator moved from 5 to 6 floor
+INFO  04.08.2017 15:58:08 - The passenger 14 left the elevator on the 6th floor
+INFO  04.08.2017 15:58:09 - Elevator moved from 6 to 7 floor
+INFO  04.08.2017 15:58:10 - The passenger 8 boarded the elevator on the 7 floor
+INFO  04.08.2017 15:58:10 - The passenger 12 boarded the elevator on the 7 floor
+INFO  04.08.2017 15:58:11 - Elevator moved from 7 to 8 floor
+INFO  04.08.2017 15:58:11 - The passenger 12 left the elevator on the 8th floor
+INFO  04.08.2017 15:58:12 - Elevator moved from 8 to 9 floor
+INFO  04.08.2017 15:58:14 - Elevator moved from 9 to 10 floor
+INFO  04.08.2017 15:58:14 - The passenger 8 left the elevator on the 10th floor
+INFO  04.08.2017 15:58:14 - The passenger 7 left the elevator on the 10th floor
+INFO  04.08.2017 15:58:15 - The passenger 4 boarded the elevator on the 10 floor
+INFO  04.08.2017 15:58:15 - The passenger 1 boarded the elevator on the 10 floor
+INFO  04.08.2017 15:58:15 - The passenger 11 boarded the elevator on the 10 floor
+INFO  04.08.2017 15:58:15 - Elevator moved from 10 to 9 floor
+INFO  04.08.2017 15:58:17 - Elevator moved from 9 to 8 floor
+INFO  04.08.2017 15:58:18 - Elevator moved from 8 to 7 floor
+INFO  04.08.2017 15:58:19 - The passenger 4 left the elevator on the 7th floor
+INFO  04.08.2017 15:58:19 - The passenger 1 left the elevator on the 7th floor
+INFO  04.08.2017 15:58:20 - Elevator moved from 7 to 6 floor
+INFO  04.08.2017 15:58:21 - Elevator moved from 6 to 5 floor
+INFO  04.08.2017 15:58:23 - Elevator moved from 5 to 4 floor
+INFO  04.08.2017 15:58:24 - The passenger 6 boarded the elevator on the 4 floor
+INFO  04.08.2017 15:58:24 - Elevator moved from 4 to 3 floor
+INFO  04.08.2017 15:58:25 - The passenger 6 left the elevator on the 3th floor
+INFO  04.08.2017 15:58:25 - The passenger 2 boarded the elevator on the 3 floor
+INFO  04.08.2017 15:58:25 - The passenger 18 boarded the elevator on the 3 floor
+INFO  04.08.2017 15:58:26 - Elevator moved from 3 to 2 floor
+INFO  04.08.2017 15:58:26 - The passenger 11 left the elevator on the 2th floor
+INFO  04.08.2017 15:58:26 - The passenger 18 left the elevator on the 2th floor
+INFO  04.08.2017 15:58:26 - The passenger 2 left the elevator on the 2th floor
+INFO  04.08.2017 15:58:27 - Elevator moved from 2 to 1 floor
+INFO  04.08.2017 15:58:28 - Elevator moved from 1 to 2 floor
+INFO  04.08.2017 15:58:29 - Elevator moved from 2 to 3 floor
+INFO  04.08.2017 15:58:30 - The passenger 9 boarded the elevator on the 3 floor
+INFO  04.08.2017 15:58:30 - The passenger 16 boarded the elevator on the 3 floor
+INFO  04.08.2017 15:58:30 - Elevator moved from 3 to 4 floor
+INFO  04.08.2017 15:58:32 - Elevator moved from 4 to 5 floor
+INFO  04.08.2017 15:58:32 - The passenger 9 left the elevator on the 5th floor
+INFO  04.08.2017 15:58:33 - Elevator moved from 5 to 6 floor
+INFO  04.08.2017 15:58:35 - Elevator moved from 6 to 7 floor
+INFO  04.08.2017 15:58:36 - The passenger 13 boarded the elevator on the 7 floor
+INFO  04.08.2017 15:58:36 - Elevator moved from 7 to 8 floor
+INFO  04.08.2017 15:58:37 - The passenger 13 left the elevator on the 8th floor
+INFO  04.08.2017 15:58:38 - Elevator moved from 8 to 9 floor
+INFO  04.08.2017 15:58:39 - Elevator moved from 9 to 10 floor
+INFO  04.08.2017 15:58:40 - The passenger 16 left the elevator on the 10th floor
+INFO  04.08.2017 15:58:40 - The passenger 20 boarded the elevator on the 10 floor
+INFO  04.08.2017 15:58:40 - The passenger 17 boarded the elevator on the 10 floor
+INFO  04.08.2017 15:58:41 - Elevator moved from 10 to 9 floor
+INFO  04.08.2017 15:58:41 - The passenger 17 left the elevator on the 9th floor
+INFO  04.08.2017 15:58:42 - The passenger 5 boarded the elevator on the 9 floor
+INFO  04.08.2017 15:58:42 - Elevator moved from 9 to 8 floor
+INFO  04.08.2017 15:58:43 - The passenger 10 boarded the elevator on the 8 floor
+INFO  04.08.2017 15:58:44 - Elevator moved from 8 to 7 floor
+INFO  04.08.2017 15:58:45 - Elevator moved from 7 to 6 floor
+INFO  04.08.2017 15:58:47 - Elevator moved from 6 to 5 floor
+INFO  04.08.2017 15:58:48 - Elevator moved from 5 to 4 floor
+INFO  04.08.2017 15:58:49 - The passenger 10 left the elevator on the 4th floor
+INFO  04.08.2017 15:58:50 - Elevator moved from 4 to 3 floor
+INFO  04.08.2017 15:58:51 - Elevator moved from 3 to 2 floor
+INFO  04.08.2017 15:58:52 - The passenger 5 left the elevator on the 2th floor
+INFO  04.08.2017 15:58:52 - The passenger 20 left the elevator on the 2th floor
+INFO  04.08.2017 15:58:53 - Elevator moved from 2 to 1 floor
+INFO  04.08.2017 15:58:54 - Elevator moved from 1 to 2 floor
+INFO  04.08.2017 15:58:55 - Elevator moved from 2 to 3 floor
+INFO  04.08.2017 15:58:56 - Elevator moved from 3 to 4 floor
+INFO  04.08.2017 15:58:57 - Elevator moved from 4 to 5 floor
+INFO  04.08.2017 15:58:58 - Elevator moved from 5 to 6 floor
+INFO  04.08.2017 15:58:59 - Elevator moved from 6 to 7 floor
+INFO  04.08.2017 15:59:00 - Elevator moved from 7 to 8 floor
+INFO  04.08.2017 15:59:01 - Elevator moved from 8 to 9 floor
+INFO  04.08.2017 15:59:02 - Elevator moved from 9 to 10 floor
+INFO  04.08.2017 15:59:03 - Elevator moved from 10 to 9 floor
+INFO  04.08.2017 15:59:04 - Elevator moved from 9 to 8 floor
+INFO  04.08.2017 15:59:04 - The passenger 15 boarded the elevator on the 8 floor
+INFO  04.08.2017 15:59:04 - The passenger 19 boarded the elevator on the 8 floor
+INFO  04.08.2017 15:59:05 - Elevator moved from 8 to 7 floor
+INFO  04.08.2017 15:59:06 - Elevator moved from 7 to 6 floor
+INFO  04.08.2017 15:59:08 - Elevator moved from 6 to 5 floor
+INFO  04.08.2017 15:59:09 - Elevator moved from 5 to 4 floor
+INFO  04.08.2017 15:59:11 - Elevator moved from 4 to 3 floor
+INFO  04.08.2017 15:59:11 - The passenger 15 left the elevator on the 3th floor
+INFO  04.08.2017 15:59:12 - Elevator moved from 3 to 2 floor
+INFO  04.08.2017 15:59:14 - Elevator moved from 2 to 1 floor
+INFO  04.08.2017 15:59:14 - The passenger 19 left the elevator on the 1th floor
+INFO  04.08.2017 15:59:15 - Elevator moved from 1 to 2 floor
